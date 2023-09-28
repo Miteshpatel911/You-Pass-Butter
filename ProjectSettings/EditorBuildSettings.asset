@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Garage Table.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f7294295313e852428712d3ded26e664, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 8e5f938181aa64f488a5a4499feb7610, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9e009fbe464322944a0c261dafcd05e8, type: 2}
